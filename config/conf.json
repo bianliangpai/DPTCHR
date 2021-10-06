@@ -1,0 +1,5 @@
+{
+  "datafile": "data/dtp.chr1.vcf",
+  "keysfile": "data/dtp03_test.txt",
+  "resultfile": "result.txt"
+}
